@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheran1&label=Profile%20views&color=0e75b6&style=flat" alt="sheran1" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Node.js,Angular.js**
+- 💬 Ask me about **HTML,CSS,JavaScript,Angular & Node.js**
 
 - 📫 How to reach me **sheranindia2003@gmail.com**
 
